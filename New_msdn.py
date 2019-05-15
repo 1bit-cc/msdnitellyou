@@ -10,15 +10,15 @@ product_url = 'https://msdn.itellyou.cn/Category/GetProduct'        # 返回该�
 
 headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.117 Safari/537.36','Referer': 'https://msdn.itellyou.cn/'}
 
-def get_post(url,data,headers):
+def get_post(url,data,headers):     # post请求，data类型为str
     try:
-        r = requests.post(url,data = data,headers = headers)
+        r = requests.post(url,data = eval(data),headers = headers)      # eval()用来将str类型转为dict类型
         r.raise_for_status()
         return r.text       #返回Unicode型的数据
     except:
         print("post error!")
 
-def get_get(url,headers):
+def get_get(url,headers):       # get请求
     try:
         r = requests.get(url,headers = headers)
         return r
@@ -41,5 +41,5 @@ all_index = re.findall(' data-loadmenu="true" data-menuid="(.*?)" data-target=',
 # print(all_cs)
 #print(all_index)
 index_ret = listt(all_index)
-cs = get_post(index_url,eval(index_ret[0]),headers)
+cs = get_post(index_url,index_ret[0],headers)
 print(re.findall('{"id":"(.*?)"',cs))
