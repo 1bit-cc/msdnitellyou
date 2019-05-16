@@ -1,0 +1,1 @@
+{"status":true,"result":{"FileName":"en_vc42ent_disc1.exe","DownLoad":"ed2k://|file|en_vc42ent_disc1.exe|202798728|D46F0810192EA1926AA5EC942F326A41|/","PostDateString":"1999-10-21","SHA1":"108384972BF8D7B045044E3DE380E2DF8F5B2866","size":"193.4MB"}}

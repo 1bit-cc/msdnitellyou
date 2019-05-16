@@ -1,0 +1,1 @@
+{"status":true,"result":{"FileName":"cn_sql_server_2016_ctp3_x64_dvd_7214483.iso","DownLoad":"ed2k://|file|cn_sql_server_2016_ctp3_x64_dvd_7214483.iso|3061182464|B2C03332A9C6E7692F99531637FEAB0A|/","PostDateString":"2015-10-30","SHA1":"C30448EA2A12603E72BD8D45FCFE286995EC4134","size":"2.85GB"}}

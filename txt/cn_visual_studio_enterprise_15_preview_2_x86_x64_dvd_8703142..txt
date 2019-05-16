@@ -1,0 +1,1 @@
+{"status":true,"result":{"FileName":"cn_visual_studio_enterprise_15_preview_2_x86_x64_dvd_8703142.iso","DownLoad":"ed2k://|file|cn_visual_studio_enterprise_15_preview_2_x86_x64_dvd_8703142.iso|2969722880|D9068050741068275CC588B3D29BA2D1|/","PostDateString":"2016-05-10","SHA1":"87CB2545622AA1DCFE068CB6361FBBEA5C7AA0BA","size":"2.77GB"}}

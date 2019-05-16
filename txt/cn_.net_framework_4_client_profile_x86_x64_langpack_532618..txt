@@ -1,0 +1,1 @@
+{"status":true,"result":{"FileName":"cn_.net_framework_4_client_profile_x86_x64_langpack_532618.exe","DownLoad":"ed2k://|file|cn_.net_framework_4_client_profile_x86_x64_langpack_532618.exe|2310656|0CB5FDB2DC41E1FB0BFD438421D265EA|/","PostDateString":"2010-05-26","SHA1":"C303765ACF4011183627D70327F290D37A11A7EF","size":"2.2MB"}}

@@ -1,0 +1,1 @@
+{"status":true,"result":{"FileName":"cn_forefront_security_for_exchange_server_with_sp2_x64_cd_x15-68159.iso","DownLoad":"ed2k://|file|cn_forefront_security_for_exchange_server_with_sp2_x64_cd_x15-68159.iso|42993664|7EB9E1A72237DBDDC9BE41F25C72257B|/","PostDateString":"2009-07-08","SHA1":"32BE918C49A04E36AD8AE98CC62D26F24448607F","size":"41MB"}}

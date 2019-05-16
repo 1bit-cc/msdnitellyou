@@ -1,0 +1,1 @@
+{"status":true,"result":{"FileName":"cn_sql_server_2014_developer_edition_with_service_pack_2_x64_dvd_8967935.iso","DownLoad":"ed2k://|file|cn_sql_server_2014_developer_edition_with_service_pack_2_x64_dvd_8967935.iso|3518996480|B7232287C95D107EE4ED07F7C47B250C|/","PostDateString":"2016-07-14","SHA1":"4E605491D4FF5C2637666498D0969FEF5E960DDB","size":"3.28GB"}}

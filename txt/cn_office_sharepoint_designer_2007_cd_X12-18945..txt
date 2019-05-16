@@ -1,0 +1,1 @@
+{"status":true,"result":{"FileName":"cn_office_sharepoint_designer_2007_cd_X12-18945.iso","DownLoad":"ed2k://|file|cn_office_sharepoint_designer_2007_cd_X12-18945.iso|417990656|BC2F8E688CB5BE1E30B9928BCDAC4455|/","PostDateString":"2007-03-29","SHA1":"74195D8CCDCE4BBE9C14B6F5D9D919C8A1238FAB","size":"398.63MB"}}

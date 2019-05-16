@@ -1,0 +1,1 @@
+{"status":true,"result":{"FileName":"cn_client_restore_disc_windows_server_2012_essentials_x86_x64_cd_1022295.iso","DownLoad":"ed2k://|file|cn_client_restore_disc_windows_server_2012_essentials_x86_x64_cd_1022295.iso|598462464|CF263401CF6467974D304A974CF0E632|/","PostDateString":"2012-10-09","SHA1":"8BD8AA2F16ACACE9C8064FF4DE538B2A5091C763","size":"570.74MB"}}

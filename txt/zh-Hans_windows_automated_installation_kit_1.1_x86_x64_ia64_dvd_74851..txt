@@ -1,0 +1,1 @@
+{"status":true,"result":{"FileName":"zh-Hans_windows_automated_installation_kit_1.1_x86_x64_ia64_dvd_74851.iso","DownLoad":"ed2k://|file|zh-Hans_windows_automated_installation_kit_1.1_x86_x64_ia64_dvd_74851.iso|1311176704|F961FE16C185828FE950F876D768789C|/","PostDateString":"2008-04-01","SHA1":"55EB4986159BA34F52BCAC80E7E9AE7D5651B44F","size":"1.22GB"}}

@@ -1,0 +1,1 @@
+{"status":true,"result":{"FileName":"SC_Windows32_12.exe","DownLoad":"ed2k://|file|SC_Windows32_12.exe|12832984|A76EB68E35CD62F8B40ECD3E6F5E213F|/","PostDateString":"2001-03-06","SHA1":"1D91AC9EB3CBC1F9C409CF891415BB71E8F594F7","size":"12.24MB"}}

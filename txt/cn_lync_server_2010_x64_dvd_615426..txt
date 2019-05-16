@@ -1,0 +1,1 @@
+{"status":true,"result":{"FileName":"cn_lync_server_2010_x64_dvd_615426.iso","DownLoad":"ed2k://|file|cn_lync_server_2010_x64_dvd_615426.iso|1608908800|9F9E5F458605B405EDB7363C9421DBA2|/","PostDateString":"2010-12-15","SHA1":"BD52EB9DCF2D348FE41166C01008BE2568C0F3DC","size":"1.5GB"}}

@@ -1,0 +1,1 @@
+{"status":true,"result":{"FileName":"cn_windows_10_multiple_editions_version_1511_updated_apr_2016_x64_dvd_8712460.iso","DownLoad":"ed2k://|file|cn_windows_10_multiple_editions_version_1511_updated_apr_2016_x64_dvd_8712460.iso|4668538880|C24CABC107DAB4956A947BA336A10DD9|/","PostDateString":"2016-05-23","SHA1":"BBED33CC7BA79F94DF330F331BB76A610AD7C133","size":"4.35GB"}}

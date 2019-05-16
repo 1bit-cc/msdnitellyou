@@ -1,0 +1,1 @@
+{"status":true,"result":{"FileName":"cn_windows_10_multiple_editions_x64_dvd_6848463.iso","DownLoad":"ed2k://|file|cn_windows_10_multiple_editions_x64_dvd_6848463.iso|4303300608|94FD861E82458005A9CA8E617379856A|/","PostDateString":"2015-07-29","SHA1":"C71D49A6144772F352806201EF564951BE55EDD5","size":"4.01GB"}}

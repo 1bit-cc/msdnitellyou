@@ -1,0 +1,1 @@
+{"status":true,"result":{"FileName":"cn_office_web_apps_x64_dvd_515373.iso","DownLoad":"ed2k://|file|cn_office_web_apps_x64_dvd_515373.iso|299960320|37A985F3C514DE501C2EE971B4C7F9AD|/","PostDateString":"2010-04-22","SHA1":"9294F8A112BEED5EE3DF41B7844E3B760A4153F3","size":"286.06MB"}}

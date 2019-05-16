@@ -1,0 +1,1 @@
+{"status":true,"result":{"FileName":"cs_virtual_server_2005_r2_enterprise_x64.iso","DownLoad":"ed2k://|file|cs_virtual_server_2005_r2_enterprise_x64.iso|32980992|15BAEEEF14B5A4C97ED996EB6C63397E|/","PostDateString":"2006-02-02","SHA1":"18731AAB5BED956E0B1799EA8035AB089452CAC0","size":"31.45MB"}}

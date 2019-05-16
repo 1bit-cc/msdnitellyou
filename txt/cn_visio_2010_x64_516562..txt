@@ -1,0 +1,1 @@
+{"status":true,"result":{"FileName":"cn_visio_2010_x64_516562.exe","DownLoad":"ed2k://|file|cn_visio_2010_x64_516562.exe|515232976|E07BBD0AE55934A8557CB47ACB10D0CE|/","PostDateString":"2010-04-22","SHA1":"8188B17BB10E8C95237FE8B79B5FD37E1E9761A4","size":"491.36MB"}}

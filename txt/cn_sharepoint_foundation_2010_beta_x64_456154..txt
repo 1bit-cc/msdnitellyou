@@ -1,0 +1,1 @@
+{"status":true,"result":{"FileName":"cn_sharepoint_foundation_2010_beta_x64_456154.exe","DownLoad":"ed2k://|file|cn_sharepoint_foundation_2010_beta_x64_456154.exe|185375704|BE886D8724D2D339F0D314FDAD71AF53|/","PostDateString":"2009-11-16","SHA1":"CC12A68DB5C6303392CC1308C9F3038BEF0CC9E3","size":"176.79MB"}}

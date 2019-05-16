@@ -1,0 +1,1 @@
+{"status":true,"result":{"FileName":"cn_office_professional_plus_2013_x64_dvd_1134006.iso","DownLoad":"ed2k://|file|cn_office_professional_plus_2013_x64_dvd_1134006.iso|914106368|E5FBAE9EE9CB35D5E777EA78F7F50410|/","PostDateString":"2012-10-25","SHA1":"adb8d9d3095638f25e9df2e708100d64804586a7","size":"871.76MB"}}

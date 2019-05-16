@@ -1,0 +1,1 @@
+{"status":true,"result":{"FileName":"cn_office_online_server_may_2016_x64_dvd_8480704.iso","DownLoad":"ed2k://|file|cn_office_online_server_may_2016_x64_dvd_8480704.iso|709687296|99014E02579B6E08E7172D05857F2D05|/","PostDateString":"2016-05-09","SHA1":"A85B00E0D1DDD219985FBC6B76EF2E422A5EEDBD","size":"676.81MB"}}

@@ -1,0 +1,1 @@
+{"status":true,"result":{"FileName":"cn_windows_10_multi-edition_vl_version_1709_updated_dec_2017_x64_dvd_100406208.iso","DownLoad":"ed2k://|file|cn_windows_10_multi-edition_vl_version_1709_updated_dec_2017_x64_dvd_100406208.iso|5007116288|317BDC520FA2DD6005CBA8293EA06DF6|/","PostDateString":"2017-12-19","SHA1":"69dc07e7b7940121027be4c9b51648fa31d2b6ad","size":"4.66GB"}}

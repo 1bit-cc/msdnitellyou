@@ -1,0 +1,1 @@
+{"status":true,"result":{"FileName":"cn_microsoft_dynamics_crm_server_2011_x86_x64_dvd_649127.iso","DownLoad":"ed2k://|file|cn_microsoft_dynamics_crm_server_2011_x86_x64_dvd_649127.iso|931461120|3DD34BDBC0944DDBD68B56BBA204A88F|/","PostDateString":"2011-03-01","SHA1":"361630F2F808F1D1827FBB0B1F4E515EBD6BD01B","size":"888.31MB"}}

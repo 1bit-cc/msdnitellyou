@@ -1,0 +1,1 @@
+{"status":true,"result":{"FileName":"cn_sql_server_2016_rc_1_x64_dvd_8444152.iso","DownLoad":"ed2k://|file|cn_sql_server_2016_rc_1_x64_dvd_8444152.iso|2431055872|50D779A90504F8AF674882E9809FD9E4|/","PostDateString":"2016-03-18","SHA1":"AD34BDED27E98D88C5EFB7433E7B68300C2A7275","size":"2.26GB"}}

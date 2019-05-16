@@ -1,0 +1,1 @@
+{"status":true,"result":{"FileName":"mu_lync_for_mac_2011_mac_dvd_737519.dmg","DownLoad":"ed2k://|file|mu_lync_for_mac_2011_mac_dvd_737519.dmg|59264680|A93BE9F0BAB5FFE0AD6AAA158B0D016E|/","PostDateString":"2011-09-29","SHA1":"641F147BE07E22FC0C6D1AEFE9B9513DAC78868A","size":"56.52MB"}}

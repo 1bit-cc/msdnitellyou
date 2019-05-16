@@ -1,0 +1,1 @@
+{"status":true,"result":{"FileName":"cn_windows_10_multiple_editions_version_1703_updated_march_2017_x64_dvd_10194190.iso","DownLoad":"ed2k://|file|cn_windows_10_multiple_editions_version_1703_updated_march_2017_x64_dvd_10194190.iso|4587292672|373B263D307F6AA2486A74E557DD22C9|/","PostDateString":"2017-04-05","SHA1":"054C741DED8989F4D0D419946EB37182F20E4482","size":"4.27GB"}}

@@ -1,0 +1,1 @@
+{"status":true,"result":{"FileName":"cn_team_foundation_server_2015_update_3_x86_x64_dvd_8945912.iso","DownLoad":"ed2k://|file|cn_team_foundation_server_2015_update_3_x86_x64_dvd_8945912.iso|488167424|25CE992C5B4DD0C19D48D5DE55804086|/","PostDateString":"2016-06-27","SHA1":"915D42663A81591BA5AEAD1B5D69C00D99D076C9","size":"465.55MB"}}

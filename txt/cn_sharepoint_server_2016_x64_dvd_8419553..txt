@@ -1,0 +1,1 @@
+{"status":true,"result":{"FileName":"cn_sharepoint_server_2016_x64_dvd_8419553.iso","DownLoad":"ed2k://|file|cn_sharepoint_server_2016_x64_dvd_8419553.iso|3375892480|15BC3955CC5BB374075BFA48F9670C76|/","PostDateString":"2016-05-02","SHA1":"C6FC3A92D96B7B04EA2F440DADDF9F702E885255","size":"3.14GB"}}

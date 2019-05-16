@@ -1,0 +1,1 @@
+{"status":true,"result":{"FileName":"cn_lync_2013_x86_x64_dvd_1145845.iso","DownLoad":"ed2k://|file|cn_lync_2013_x86_x64_dvd_1145845.iso|999450624|7858E7FEDF27029D18FD6ECD257164CC|/","PostDateString":"2012-10-31","SHA1":"5CD74BAE75A4F430C186C68976129BAEB685E906","size":"953.15MB"}}

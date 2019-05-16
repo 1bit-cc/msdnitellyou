@@ -1,0 +1,1 @@
+{"status":true,"result":{"FileName":"cn_system_center_2012_operations_manager_x86_and_x64_dvd_844026.iso","DownLoad":"ed2k://|file|cn_system_center_2012_operations_manager_x86_and_x64_dvd_844026.iso|1265629184|AF330B642815E28C47B3C30204319F03|/","PostDateString":"2012-06-29","SHA1":"B69AE4D323733EF374048F2D3EC82E5DEA5033BF","size":"1.18GB"}}

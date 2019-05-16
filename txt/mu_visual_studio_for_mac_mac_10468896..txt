@@ -1,0 +1,1 @@
+{"status":true,"result":{"FileName":"mu_visual_studio_for_mac_mac_10468896.dmg","DownLoad":"ed2k://|file|mu_visual_studio_for_mac_mac_10468896.dmg|26944731|FBE947BC68002556294CB0A433EB8444|/","PostDateString":"2017-05-10","SHA1":"B705C141BBFE706801453DB43DE891A204096A31","size":"25.7MB"}}

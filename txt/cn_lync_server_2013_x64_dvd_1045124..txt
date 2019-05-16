@@ -1,0 +1,1 @@
+{"status":true,"result":{"FileName":"cn_lync_server_2013_x64_dvd_1045124.iso","DownLoad":"ed2k://|file|cn_lync_server_2013_x64_dvd_1045124.iso|1333297152|3A72D57B3201199133DF5DC372ED3D92|/","PostDateString":"2012-10-24","SHA1":"29E1F44CF1F41849E2467E9816030BC306C38678","size":"1.24GB"}}

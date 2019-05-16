@@ -1,0 +1,1 @@
+{"status":true,"result":{"FileName":"cn_windows_10_business_edition_version_1803_updated_sep_2018_x64_dvd_07b164ed.iso","DownLoad":"ed2k://|file|cn_windows_10_business_edition_version_1803_updated_sep_2018_x64_dvd_07b164ed.iso|5229189120|5CC3C32DB198D647DCED4B0EB96B8547|/","PostDateString":"2018-09-19","SHA1":"48b63bb1580aae2985c9e596c5a5782753fbfe75","size":"4.87GB"}}

@@ -1,0 +1,1 @@
+{"status":true,"result":{"FileName":"cn_windows_10_pro_insider_preview_10074_x64_dvd_6651350.iso","DownLoad":"ed2k://|file|cn_windows_10_pro_insider_preview_10074_x64_dvd_6651350.iso|4000796672|6367E5473704AB69324D1DCDB52BA4ED|/","PostDateString":"2015-04-30","SHA1":"4C8C75F0A2F853CD40003D79A951E3624F83C9B3","size":"3.73GB"}}

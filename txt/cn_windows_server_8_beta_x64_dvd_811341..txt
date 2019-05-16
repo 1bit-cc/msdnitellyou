@@ -1,0 +1,1 @@
+{"status":true,"result":{"FileName":"cn_windows_server_8_beta_x64_dvd_811341.iso","DownLoad":"ed2k://|file|cn_windows_server_8_beta_x64_dvd_811341.iso|3727964160|108E6447E01A6F1EFA4B0EB9493F0A0E|/","PostDateString":"2012-02-29","SHA1":"BD3EC4CF435B749B0CAB698933667B2C60A93B43","size":"3.47GB"}}

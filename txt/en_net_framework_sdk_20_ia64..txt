@@ -1,0 +1,1 @@
+{"status":true,"result":{"FileName":"en_net_framework_sdk_20_ia64.exe","DownLoad":"ed2k://|file|en_net_framework_sdk_20_ia64.exe|364345528|09DD45390117A16C17F30AD4185BE8BE|/","PostDateString":"2005-11-08","SHA1":"4F13784139401CD3577D15E5330EC1D6BE891909","size":"347.47MB"}}

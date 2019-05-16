@@ -1,0 +1,1 @@
+{"status":true,"result":{"FileName":"cn_office_web_apps_2013_x64_dvd_1133682.iso","DownLoad":"ed2k://|file|cn_office_web_apps_2013_x64_dvd_1133682.iso|493172736|FFBB776E3747EBD3254E4DC2C2C92919|/","PostDateString":"2012-10-25","SHA1":"c061b48f232d261591ef89c3f316de5867b0b1c3","size":"470.33MB"}}

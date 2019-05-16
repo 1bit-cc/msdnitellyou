@@ -1,0 +1,1 @@
+{"status":true,"result":{"FileName":"cn_microsoft_hyper-v_server_2016_technical_preview_4_x64_dvd_7258310.iso","DownLoad":"ed2k://|file|cn_microsoft_hyper-v_server_2016_technical_preview_4_x64_dvd_7258310.iso|2620000256|394E08259B5002551D133489F05E802C|/","PostDateString":"2015-11-19","SHA1":"1F30955DFB113DA600D403274A655BF530ED8679","size":"2.44GB"}}

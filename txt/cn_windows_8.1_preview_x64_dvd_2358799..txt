@@ -1,0 +1,1 @@
+{"status":true,"result":{"FileName":"cn_windows_8.1_preview_x64_dvd_2358799.iso","DownLoad":"ed2k://|file|cn_windows_8.1_preview_x64_dvd_2358799.iso|3929276416|919BD8893C9D5A091432CBA69C41581C|/","PostDateString":"2013-06-26","SHA1":"A34B8F71DCE39303F81402E2B44DA17117BB8970","size":"3.66GB"}}

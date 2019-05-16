@@ -1,0 +1,1 @@
+{"status":true,"result":{"FileName":"SC_Windows31.exe","DownLoad":"ed2k://|file|SC_Windows31.exe|8472384|84037137FFF3932707F286EC852F2ABC|/","PostDateString":"2001-03-06","SHA1":"65BC761CEFFD6280DA3F7677D6F3DDA2BAEC1E19","size":"8.08MB"}}

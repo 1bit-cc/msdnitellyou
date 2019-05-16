@@ -1,0 +1,1 @@
+{"status":true,"result":{"FileName":"sc_vb6_ent_cd1.iso","DownLoad":"ed2k://|file|sc_vb6_ent_cd1.iso|274132992|93B08D085B3D7CC0E6DC0EDEBC96E95B|/","PostDateString":"1999-04-09","SHA1":"CD4E425C309A274E25842F9DC4BF51CB2233C7DD","size":"261.43MB"}}

@@ -1,0 +1,1 @@
+{"status":true,"result":{"FileName":"cn_windows_10_multiple_editions_version_1703_updated_july_2017_x64_dvd_10925382.iso","DownLoad":"ed2k://|file|cn_windows_10_multiple_editions_version_1703_updated_july_2017_x64_dvd_10925382.iso|5849513984|D4A186940512939EAF72EF91FE74C0F8|/","PostDateString":"2017-07-27","SHA1":"77051E8DEF254447BF91003E581317382D979B7B","size":"5.45GB"}}

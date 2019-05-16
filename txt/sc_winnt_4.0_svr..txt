@@ -1,0 +1,1 @@
+{"status":true,"result":{"FileName":"sc_winnt_4.0_svr.iso","DownLoad":"ed2k://|file|sc_winnt_4.0_svr.iso|676548608|3BCB905EB3A6ED9AB685B5701BF94A29|/","PostDateString":"2003-12-19","SHA1":"BAA6612A833BC364077048497A95B8456CD9CC81","size":"645.21MB"}}

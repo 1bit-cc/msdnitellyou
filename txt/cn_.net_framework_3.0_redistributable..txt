@@ -1,0 +1,1 @@
+{"status":true,"result":{"FileName":"cn_.net_framework_3.0_redistributable.exe","DownLoad":"ed2k://|file|cn_.net_framework_3.0_redistributable.exe|2945816|D229344339F30F1D0985E39942D827F0|/","PostDateString":"2007-03-14","SHA1":"A566BCD2FFFFC3842A95ADC57F7DF3F8CD11577F","size":"2.81MB"}}

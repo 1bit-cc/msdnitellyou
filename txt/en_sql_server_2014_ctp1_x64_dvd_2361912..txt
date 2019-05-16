@@ -1,0 +1,1 @@
+{"status":true,"result":{"FileName":"en_sql_server_2014_ctp1_x64_dvd_2361912.iso","DownLoad":"ed2k://|file|en_sql_server_2014_ctp1_x64_dvd_2361912.iso|3527368704|778C550337A31386FF42C5F71F4D5555|/","PostDateString":"2013-06-25","SHA1":"D49CB67708F04FDAA4CF504FD49E9B180A470B17","size":"3.29GB"}}

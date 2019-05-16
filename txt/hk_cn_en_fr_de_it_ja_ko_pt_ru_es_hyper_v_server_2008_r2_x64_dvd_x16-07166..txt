@@ -1,0 +1,1 @@
+{"status":true,"result":{"FileName":"hk_cn_en_fr_de_it_ja_ko_pt_ru_es_hyper_v_server_2008_r2_x64_dvd_x16-07166.iso","DownLoad":"ed2k://|file|hk_cn_en_fr_de_it_ja_ko_pt_ru_es_hyper_v_server_2008_r2_x64_dvd_x16-07166.iso|1615949824|2DC62FF7253A91B813239D6C6BFBA4E1|/","PostDateString":"2009-08-14","SHA1":"D9883263247AE2877FC8E40A0CB7FAFED202F162","size":"1.5GB"}}

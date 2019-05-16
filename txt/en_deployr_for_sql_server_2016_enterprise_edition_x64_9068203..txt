@@ -1,0 +1,1 @@
+{"status":true,"result":{"FileName":"en_deployr_for_sql_server_2016_enterprise_edition_x64_9068203.zip","DownLoad":"ed2k://|file|en_deployr_for_sql_server_2016_enterprise_edition_x64_9068203.zip|118264226|8E6C3F54C85C2A555FE2F6E9D5992EEB|/","PostDateString":"2016-07-26","SHA1":"8343E22420E77421023B27A7B5228C6CC7A6A4C7","size":"112.79MB"}}

@@ -1,0 +1,1 @@
+{"status":true,"result":{"FileName":"cn_windows_server_2016_updated_feb_2018_x64_dvd_11636703.iso","DownLoad":"ed2k://|file|cn_windows_server_2016_updated_feb_2018_x64_dvd_11636703.iso|6294265856|4077CEBEBB40AFA5A66017D2EC7A9CD5|/","PostDateString":"2018-02-15","SHA1":"8d1c867b19c4eae7dd79eb544fdd5dbfbd9812fe","size":"5.86GB"}}

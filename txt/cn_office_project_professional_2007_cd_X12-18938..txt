@@ -1,0 +1,1 @@
+{"status":true,"result":{"FileName":"cn_office_project_professional_2007_cd_X12-18938.iso","DownLoad":"ed2k://|file|cn_office_project_professional_2007_cd_X12-18938.iso|392437760|48C3FCBE802FDA5C8326C5A26F2A95FD|/","PostDateString":"2007-03-29","SHA1":"732A0E8B3189F24D4051529B4CB0444208678DF9","size":"374.26MB"}}

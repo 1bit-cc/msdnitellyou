@@ -1,0 +1,1 @@
+{"status":true,"result":{"FileName":"cn_windows_10_business_edition_version_1809_updated_feb_2019_x64_dvd_56190772.iso","DownLoad":"ed2k://|file|cn_windows_10_business_edition_version_1809_updated_feb_2019_x64_dvd_56190772.iso|5208895488|40F70EC73C6CAD4B27BAA5EE6EC2EE61|/","PostDateString":"2019-02-20","SHA1":"57a8db1abdf033cd104278e0b0995c00ca52f817","size":"4.85GB"}}

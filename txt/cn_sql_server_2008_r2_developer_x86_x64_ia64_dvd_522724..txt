@@ -1,0 +1,1 @@
+{"status":true,"result":{"FileName":"cn_sql_server_2008_r2_developer_x86_x64_ia64_dvd_522724.iso","DownLoad":"ed2k://|file|cn_sql_server_2008_r2_developer_x86_x64_ia64_dvd_522724.iso|4662884352|E436F05BCB0165FDF7E5E61862AB6BE1|/","PostDateString":"2010-05-03","SHA1":"AAE0E2D4E41AB7591634D53C7BC76A112F31B617","size":"4.34GB"}}

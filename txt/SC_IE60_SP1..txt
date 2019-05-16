@@ -1,0 +1,1 @@
+{"status":true,"result":{"FileName":"SC_IE60_SP1.exe","DownLoad":"ed2k://|file|SC_IE60_SP1.exe|81326080|3F879FAB8E04785B5D3EC27DEFA1C6A6|/","PostDateString":"2002-10-03","SHA1":"CD9715403F9170195EB8F5E950C77B8D0D7874E1","size":"77.56MB"}}

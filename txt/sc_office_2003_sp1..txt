@@ -1,0 +1,1 @@
+{"status":true,"result":{"FileName":"sc_office_2003_sp1.iso","DownLoad":"ed2k://|file|sc_office_2003_sp1.iso|178737152|EF78B5CB9177651E54A5159F1D6E1E2A|/","PostDateString":"2004-08-31","SHA1":"E99F574723C1DA90B32B98059DB8FBC6D77519C9","size":"170.46MB"}}

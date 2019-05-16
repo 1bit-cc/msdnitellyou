@@ -1,0 +1,1 @@
+{"status":true,"result":{"FileName":"mu_exchange_server_2016_x64_dvd_7047456.iso","DownLoad":"ed2k://|file|mu_exchange_server_2016_x64_dvd_7047456.iso|1810948096|53E8C34083D3290A6A4AE8D82BA2C57F|/","PostDateString":"2015-10-01","SHA1":"E0427ADB4C36BF4A045D0014FB96FEB50020D8E6","size":"1.69GB"}}

@@ -1,0 +1,1 @@
+{"status":true,"result":{"FileName":"cn_windows_8_x64_dvd_915407.iso","DownLoad":"ed2k://|file|cn_windows_8_x64_dvd_915407.iso|3652950016|5C7F8C212BD3A1827866563773A431C2|/","PostDateString":"2012-08-15","SHA1":"A87C4AA85D55CD83BAE9160560D1CB3319DD675C","size":"3.4GB"}}

@@ -1,0 +1,1 @@
+{"status":true,"result":{"FileName":"sc_sbs_2003_r2_cd1.iso","DownLoad":"ed2k://|file|sc_sbs_2003_r2_cd1.iso|650360832|EB4F15E866986A8CEE56095B04CCF73E|/","PostDateString":"2006-07-11","SHA1":"A37B70960A590C70FFAB80445605763E04B82549","size":"620.23MB"}}

@@ -1,0 +1,1 @@
+{"status":true,"result":{"FileName":"en_office_groove_server_2010_x64_dvd_x16-50311.iso","DownLoad":"ed2k://|file|en_office_groove_server_2010_x64_dvd_x16-50311.iso|105265152|0FEA753F25C8AD23E66612B1F88132D8|/","PostDateString":"2010-05-03","SHA1":"6B83074502F17BD9B459B934B3C0C0A2856C5E27","size":"100.39MB"}}

@@ -1,0 +1,1 @@
+{"status":true,"result":{"FileName":"cn_sql_server_2016_developer_with_service_pack_2_x64_dvd_12195013.iso","DownLoad":"ed2k://|file|cn_sql_server_2016_developer_with_service_pack_2_x64_dvd_12195013.iso|3217154048|AC379F2A852760E54316A2CDAEFCB42C|/","PostDateString":"2018-05-22","SHA1":"1e85094cb131af738f882c7c6476e44e73ca7d90","size":"3GB"}}

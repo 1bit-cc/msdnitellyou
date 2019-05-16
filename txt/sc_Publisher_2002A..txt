@@ -1,0 +1,1 @@
+{"status":true,"result":{"FileName":"sc_Publisher_2002A.iso","DownLoad":"ed2k://|file|sc_Publisher_2002A.iso|410783744|4F24C1C9490144E172789660E629436A|/","PostDateString":"2003-12-05","SHA1":"C26E633B49DF53EFF90B4BAF8C3D2DE87E97E5E4","size":"391.75MB"}}

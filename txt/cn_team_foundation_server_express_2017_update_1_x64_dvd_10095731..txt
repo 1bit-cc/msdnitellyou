@@ -1,0 +1,1 @@
+{"status":true,"result":{"FileName":"cn_team_foundation_server_express_2017_update_1_x64_dvd_10095731.iso","DownLoad":"ed2k://|file|cn_team_foundation_server_express_2017_update_1_x64_dvd_10095731.iso|447660032|EFD3591BDFDB5879F7985792DB4211CF|/","PostDateString":"2017-03-09","SHA1":"0E37D27D97D1B2DA919C4EF57BB07DED43B392A3","size":"426.92MB"}}

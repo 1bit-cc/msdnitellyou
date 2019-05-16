@@ -1,0 +1,1 @@
+{"status":true,"result":{"FileName":"cn_translation_glossaries_x86.zip","DownLoad":"ed2k://|file|cn_translation_glossaries_x86.zip|71362754|CEEF4FFFC53724D3102DF388E0F953DA|/","PostDateString":"2008-09-29","SHA1":"D65D6666102C9D669EB10BBA4C7DE6E29C7A706E","size":"68.06MB"}}

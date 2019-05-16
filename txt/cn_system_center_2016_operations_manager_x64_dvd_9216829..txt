@@ -1,0 +1,1 @@
+{"status":true,"result":{"FileName":"cn_system_center_2016_operations_manager_x64_dvd_9216829.iso","DownLoad":"ed2k://|file|cn_system_center_2016_operations_manager_x64_dvd_9216829.iso|1114923008|0809914F91045D28A9C956CBD4A6ED84|/","PostDateString":"2016-10-12","SHA1":"80DE5A7A365AD72FCFD168B324202D1AF9A0EC04","size":"1.04GB"}}
