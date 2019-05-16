@@ -1,6 +1,7 @@
 import requests
 import re
 import xlwt
+import json
 
 url = 'https://msdn.itellyou.cn/'       # 主页
 index_url = 'https://msdn.itellyou.cn/Category/Index'       # 请求第一大类下第二大类列表，例：操作系统
@@ -38,8 +39,10 @@ res = get_get(url,headers = headers)
 # all_cs = re.findall('data-target="#collapse_.*?">(.*?)</a></h4></div><div id="',res.text)   # .*?匹配任意字符，()将匹配的内容提取出来
 all_index = re.findall(' data-loadmenu="true" data-menuid="(.*?)" data-target=',res.text)   # 筛选出各大类id
 
-# print(all_cs)
-#print(all_index)
-index_ret = listt(all_index)
+index_ret = listt(all_index)        # 格式化字符串
 cs = get_post(index_url,index_ret[0],headers)
-print(re.findall('{"id":"(.*?)"',cs))
+
+json_index = re.findall('{"id":"(.*?)"',cs)       # 将接收到的json用正则提取id
+
+str_index = listt(list(json_index))
+print(str_index)
