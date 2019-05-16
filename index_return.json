@@ -1,0 +1,182 @@
+[
+    {
+        "id": "d15691d5-9208-4a7b-b8f8-b64cf6fb875a",
+        "name": "Dynamics AX 2009"
+    },
+    {
+        "id": "502d5cd9-c58f-4ec0-a3cc-ec810b3cadea",
+        "name": "Dynamics AX 2012"
+    },
+    {
+        "id": "feeabb53-34cd-45ce-a586-735e35f47710",
+        "name": "Dynamics AX 2012 R2"
+    },
+    {
+        "id": "9b56c63f-e26a-4e1f-a910-888d5bd241d4",
+        "name": "Dynamics AX 2012 R3"
+    },
+    {
+        "id": "eb306d57-65f9-4890-96e5-d367c86b0879",
+        "name": "Dynamics AX 4.0"
+    },
+    {
+        "id": "3a585429-c480-4895-aafe-62cd0a330cb9",
+        "name": "Dynamics Axapta 3.0"
+    },
+    {
+        "id": "23739f56-2fbf-4cde-84e3-24b3c7663b05",
+        "name": "Dynamics CRM 1.0"
+    },
+    {
+        "id": "b003b93c-4e08-40d8-91f2-d062bcf1c6fd",
+        "name": "Dynamics CRM 1.2"
+    },
+    {
+        "id": "3fb4a48e-550e-4843-af6a-e6bc6775f61e",
+        "name": "Dynamics CRM 2011"
+    },
+    {
+        "id": "30d1906e-cf0f-474f-9e0a-4fee99b7a616",
+        "name": "Dynamics CRM 2013"
+    },
+    {
+        "id": "d20bb6cf-cc86-46dd-9beb-ebdd216759d8",
+        "name": "Dynamics CRM 2015"
+    },
+    {
+        "id": "6f847209-ba3e-45e3-baee-ba9702696ddd",
+        "name": "Dynamics CRM 2016"
+    },
+    {
+        "id": "863a49d8-ca06-40d1-bde8-ea8dc36f273b",
+        "name": "Dynamics CRM 3.0"
+    },
+    {
+        "id": "548248d8-e645-460b-9a3d-de191da82b83",
+        "name": "Dynamics CRM 4.0"
+    },
+    {
+        "id": "5872bf20-8c91-467d-bfb1-0804cee78415",
+        "name": "Dynamics GP 10.0"
+    },
+    {
+        "id": "abdee1dd-3317-4e82-914a-19e4fe84b63e",
+        "name": "Dynamics GP 2010"
+    },
+    {
+        "id": "a9b54f74-db77-422a-a06c-1532684d7856",
+        "name": "Dynamics GP 2013"
+    },
+    {
+        "id": "64f16c92-b1f8-4e70-bcc7-47719ae4b5a8",
+        "name": "Dynamics GP 2015"
+    },
+    {
+        "id": "0b6abd88-8230-4c45-833e-b9c3576b8849",
+        "name": "Dynamics GP 2016"
+    },
+    {
+        "id": "9b01d21a-3b9e-40d8-a442-a0a2cccbbd83",
+        "name": "Dynamics GP 7.5"
+    },
+    {
+        "id": "4031f570-0834-4e7f-b846-7c6feb81fba8",
+        "name": "Dynamics GP 8.0"
+    },
+    {
+        "id": "4b4fc67a-0b30-41d1-b09a-6ce65c824c81",
+        "name": "Dynamics GP 9.0"
+    },
+    {
+        "id": "142f1456-3c20-4fab-bd31-840b0549ea04",
+        "name": "Dynamics NAV 2009"
+    },
+    {
+        "id": "5c664e1d-4f30-4dfd-aa31-5a575573c5d0",
+        "name": "Dynamics NAV 2009 R2"
+    },
+    {
+        "id": "f2ba8b05-8ff7-426f-8087-8e337e807af8",
+        "name": "Dynamics NAV 2013 "
+    },
+    {
+        "id": "51197410-080f-47d1-9709-ae0d5cb35614",
+        "name": "Dynamics NAV 2013 R2"
+    },
+    {
+        "id": "f1a6ae43-51e7-4d21-ba31-e2ca411b9d4b",
+        "name": "Dynamics NAV 2015"
+    },
+    {
+        "id": "b35bb143-416c-4378-81ad-9d2171b2ffc8",
+        "name": "Dynamics NAV 2016"
+    },
+    {
+        "id": "fc76d938-2b69-4d45-83e4-3ae50439aec8",
+        "name": "Dynamics NAV 2017"
+    },
+    {
+        "id": "0ccdf0d0-279f-4264-840f-871015cb3514",
+        "name": "Dynamics NAV 4.0"
+    },
+    {
+        "id": "6d8c4b14-7587-403b-bbd7-20bae90f8385",
+        "name": "Dynamics NAV 5.0"
+    },
+    {
+        "id": "304baeb0-cbfb-489c-8917-238feaf3ff79",
+        "name": "Dynamics Point of Sale 2009"
+    },
+    {
+        "id": "cb2b43f2-d203-4916-9c57-d48a73f01d96",
+        "name": "Dynamics SL 2011"
+    },
+    {
+        "id": "97a8c1a1-78ee-4804-a1a7-83b56137cc17",
+        "name": "Dynamics SL 2015"
+    },
+    {
+        "id": "0e198ed5-ae15-4552-a80b-a2606b4da89c",
+        "name": "Dynamics SL 7.0"
+    },
+    {
+        "id": "88fd93ef-f5a8-43e8-a3e3-1acc4eb8fa49",
+        "name": "Point of Sale 1.0"
+    },
+    {
+        "id": "519d71a5-ff0c-4b73-93c4-4dc0e8f6aec4",
+        "name": "Small Business Accounting"
+    },
+    {
+        "id": "efc77caa-4b9a-4d11-b5c4-eea98d40aab7",
+        "name": "Small Business Manager Financials 7.5"
+    },
+    {
+        "id": "2f27336a-c5ed-4b51-b243-fd5477a87591",
+        "name": "Small Business Manager Financials 8.0"
+    },
+    {
+        "id": "90ec73c5-ce04-4332-b06b-e816a5c863c7",
+        "name": "Small Business Manager Financials 9.0"
+    },
+    {
+        "id": "524e93e8-26d6-4104-9521-4acdbf4ea5cc",
+        "name": "Solomon 5.5"
+    },
+    {
+        "id": "ea9e43bc-1813-4b4e-9fca-c8c74d634532",
+        "name": "Solomon 6.0"
+    },
+    {
+        "id": "939ef3bb-5a5b-4f92-a121-3c5d082f4f31",
+        "name": "Solomon 6.5"
+    },
+    {
+        "id": "f882b778-992d-4a2a-b466-1ac37d5df9e1",
+        "name": "Solomon 7.0"
+    },
+    {
+        "id": "450592b5-1d96-48b2-8642-6ce1eff07e24",
+        "name": "Solomon FRx"
+    }
+]
