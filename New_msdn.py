@@ -11,7 +11,7 @@ product_url = 'https://msdn.itellyou.cn/Category/GetProduct'        # 返回该�
 
 headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.117 Safari/537.36','Referer': 'https://msdn.itellyou.cn/'}
 
-def get_post(url,data,headers):     # post请求，data类型为str
+def get_post(url,data):     # post请求，data类型为str
     try:
         r = requests.post(url,data = eval(data),headers = headers)      # eval()用来将str类型转为dict类型
         r.raise_for_status()
@@ -19,7 +19,7 @@ def get_post(url,data,headers):     # post请求，data类型为str
     except:
         print("post error!")
 
-def get_get(url,headers):       # get请求
+def get_get(url):       # get请求
     try:
         r = requests.get(url,headers = headers)
         return r
@@ -34,15 +34,15 @@ def listt(id_sx):       # 用来将一大串id格式化成列表输出，例如�
         x = x + 1
     return index
 
-res = get_get(url,headers = headers)
+res = get_get(url)
 
 # all_cs = re.findall('data-target="#collapse_.*?">(.*?)</a></h4></div><div id="',res.text)   # .*?匹配任意字符，()将匹配的内容提取出来
 all_index = re.findall(' data-loadmenu="true" data-menuid="(.*?)" data-target=',res.text)   # 筛选出各大类id
 
 index_ret = listt(all_index)        # 格式化字符串
-cs = get_post(index_url,index_ret[0],headers)
+cs = get_post(index_url,index_ret[0])
 
-json_index = re.findall('{"id":"(.*?)"',cs)       # 将接收到的json用正则提取id
+json_index = re.findall('{"id":"(.*?)"',str(cs))       # 将接收到的json用正则提取id
 
 str_index = listt(list(json_index))
 print(str_index)
